@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="grade.Module1" tests="45" skipped="0" failures="0" errors="0" timestamp="2020-02-07T16:56:09" hostname="Kollin-Laptop" time="0.622">
+  <properties/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[1]" classname="grade.Module1" time="0.22"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[2]" classname="grade.Module1" time="0.007"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[3]" classname="grade.Module1" time="0.007"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[4]" classname="grade.Module1" time="0.006"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[5]" classname="grade.Module1" time="0.007"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[6]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[7]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[8]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[9]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[10]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[11]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[12]" classname="grade.Module1" time="0.008"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[13]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[14]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[15]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[16]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[17]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[18]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[19]" classname="grade.Module1" time="0.01"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[20]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[21]" classname="grade.Module1" time="0.006"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[22]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[23]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[24]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[25]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[26]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[27]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[28]" classname="grade.Module1" time="0.018"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[29]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[30]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[31]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[32]" classname="grade.Module1" time="0.004"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[33]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[34]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[35]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[36]" classname="grade.Module1" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[37]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[38]" classname="grade.Module1" time="0.044"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[39]" classname="grade.Module1" time="0.005"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[40]" classname="grade.Module1" time="0.007"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[41]" classname="grade.Module1" time="0.01"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[42]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[43]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[44]" classname="grade.Module1" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, Map, Map, Map, Map)[45]" classname="grade.Module1" time="0.009"/>
+  <system-out><![CDATA[CREATE TABLE m1_table01 (id INTEGER PRIMARY, name STRING, flag BOOLEAN)
+create table m1_table02 (ID integer primary, NAME string, flag BOOLEAN)
+ CREATE TABLE m1_table03 (id INTEGER PRIMARY, name STRING, flag BOOLEAN) 
+CREATE  TABLE  m1_table04  (id INTEGER PRIMARY, name STRING, flag BOOLEAN)
+CREATE TABLE m1_table05 ( id INTEGER PRIMARY , name STRING , flag BOOLEAN )
+CREATE TABLE m1_table06 (id INTEGER PRIMARY,name STRING,flag BOOLEAN)
+CREATETABLE m1_table07 (id INTEGERPRIMARY, name STRING, flag BOOLEAN)
+CREATE TABLEm1_table08 (idINTEGER PRIMARY, nameSTRING, flag BOOLEAN)
+CREATE TABLE t (i INTEGER PRIMARY, n STRING, f BOOLEAN)
+CREATE TABLE m1_table10_____ (n23456789012345 INTEGER PRIMARY)
+CREATE TABLE m1_table11______ (n234567890123456 INTEGER PRIMARY)
+CREATE TABLE 1m_table12 (2id INTEGER PRIMARY, 3name STRING, 4flag BOOLEAN)
+CREATE TABLE _m1table13 (_id INTEGER PRIMARY, _name STRING, _flag BOOLEAN)
+CREATE TABLE (id INTEGER PRIMARY, name STRING, flag BOOLEAN)
+CREATE m1_table15 (id INTEGER PRIMARY, name STRING, flag BOOLEAN)
+CREATE TABLE m1_table16 (id INTEGER PRIMARY name STRING flag BOOLEAN)
+CREATE TABLE m1_table17 id INTEGER PRIMARY, name STRING, flag BOOLEAN
+CREATE TABLE m1_table18 ()
+CREATE TABLE m1_table19 (c1 INTEGER PRIMARY)
+CREATE TABLE m1_table20 (c1 INTEGER PRIMARY, c2 STRING)
+CREATE TABLE m1_table21 (c1 INTEGER PRIMARY, c2 INTEGER, c3 INTEGER, c4 INTEGER, c5 INTEGER, c6 INTEGER, c7 INTEGER, c8 INTEGER, c9 INTEGER, c10 INTEGER, c11 INTEGER, c12 INTEGER, c13 INTEGER, c14 INTEGER, c15 INTEGER)
+CREATE TABLE m1_table22 (c1 INTEGER PRIMARY, c2 INTEGER, c3 INTEGER, c4 INTEGER, c5 INTEGER, c6 INTEGER, c7 INTEGER, c8 INTEGER, c9 INTEGER, c10 INTEGER, c11 INTEGER, c12 INTEGER, c13 INTEGER, c14 INTEGER, c15 INTEGER, c16 INTEGER)
+CREATE TABLE m1_table23 (id INTEGER, name STRING, flag BOOLEAN)
+CREATE TABLE m1_table24 (id INTEGER PRIMARY, name STRING PRIMARY, flag BOOLEAN PRIMARY)
+CREATE TABLE m1_table25 (id INTEGER, name STRING PRIMARY, flag BOOLEAN)
+CREATE TABLE m1_table01 (ps STRING PRIMARY)
+DROP TABLE m1_table01
+drop table m1_table02
+ DROP TABLE m1_table03 
+DROP  TABLE  m1_table04
+DROPTABLE m1_table05
+DROP TABLEm1_table06
+DROP TABLE t
+DROP TABLE
+DROP m1_table17
+DROP TABLE m1_table01
+CREATE TABLE m1_table01 (ps STRING PRIMARY)
+SHOW TABLES
+show tables
+ SHOW TABLES 
+SHOW  TABLES
+SHOWTABLES
+SHOW
+AN INVALID QUERY
+ECHO "Test1"; RANGE 10; ECHO "Test2"
+[M1 PASSED 100% OF UNIT TESTS]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
